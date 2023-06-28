@@ -44,5 +44,5 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 group by ФИО;
 ```
 
-![2-1](https://github.com/SemkinVA/12.5-HW/blob/main/2-1.jpg)
+![2-1](https://github.com/SemkinVA/12.5-HW/blob/main/2-1.png)
 ***
